@@ -9,4 +9,4 @@ elif time_hour>5 and time_hour<=12:
 elif time_hour>12 and time_hour<17:
     print("Good afternoon sir")
 else:
-    print("Good Evening")
+    print("Good Evening or good night")
